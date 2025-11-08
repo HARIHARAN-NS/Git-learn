@@ -1,0 +1,9 @@
+context
+1. 
+08/11/25
+1. checkout using GUI wihtout tortoise git
+2. create new branch from main using vs code and in github
+3. created a new file and updated that changes commit and make PR and merged the changes.
+4. Invite the collabators
+4. updated the branch like pull from main using VS code.
+5. revised the above topics by doing this again.
